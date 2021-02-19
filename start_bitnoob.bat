@@ -1,0 +1,1 @@
+xmrig.exe --randomx-mode=fast --coin monero -t 8 -o us-east.randomx-hub.miningpoolhub.com:20580 -u heldinho25.gpu -p x --donate-level 1
